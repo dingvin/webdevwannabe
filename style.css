@@ -4,10 +4,11 @@ body {
 
 .up-nav {
     padding-left: 20px;
+    display: flex;
 }
 
 .nav-left img {
-    width: 100px;
+    width: 70px;
 }
 
 .nav-left div {
@@ -22,5 +23,5 @@ body {
 }
 
 .nav-left > * {
-    padding: 20px;
+    padding: 10px;
 }
